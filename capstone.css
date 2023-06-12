@@ -1,0 +1,23 @@
+#toc {
+    border: 5px solid lightskyblue;
+    text-align: center;
+}
+h1, h2{
+    text-align: center;
+}
+
+body{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
+
+a{
+    color: darkblue;
+}
+
+
